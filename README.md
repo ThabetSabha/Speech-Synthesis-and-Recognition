@@ -10,7 +10,7 @@ The website uses two Web-APIs :
      
 The user can then either use the SpeechSynthesis API to read some text, or use the SpeechRecognition API to generate text by talking.     
     
-*The SpeechRecognition Web API isn't yet supported outside of chromium based browsers.    
+*These Web APIs aren't yet supported outside of chromium based browsers.    
 *Files need to be hosted using a server (eg: live-server) to use the SpeechRecognition API.     
      
 *most of the code was reused from my JS30 previous projects :      
